@@ -1,0 +1,7 @@
+videos/
+images/
+admin/config.json
+admin/homepage_content/*
+admin/site_content/*
+php/mail.php
+php/connection.properties.php
