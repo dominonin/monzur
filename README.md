@@ -1,3 +1,3 @@
 # README #
 
-Private Repo for site
+Site repo
